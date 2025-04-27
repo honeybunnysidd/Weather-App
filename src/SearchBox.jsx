@@ -8,7 +8,7 @@ import { colors } from "@mui/material";
 export default function SearchBox({ updateInfo }) {
   let [city, setCity] = useState("");
   let [error, setError] = useState(false);
-  const API_URL = "http://api.openweathermap.org/data/2.5/weather";
+  const API_URL = "https://api.openweathermap.org/data/2.5/weather";
   const API_KEY = "8be1a2d2483f348a3bc7311660a89f6c";
 
   let getWeatherInfo = async () => {
