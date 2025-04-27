@@ -1,0 +1,15 @@
+.searchContainer {
+  text-align: center;
+}
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+#city {
+  height: 0.7rem;
+}
+h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
