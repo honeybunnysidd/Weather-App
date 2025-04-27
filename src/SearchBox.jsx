@@ -65,6 +65,7 @@ export default function SearchBox({ updateInfo }) {
         />
         {/* //Button */}
         <Button
+          className="btn"
           type="submit"
           variant="contained"
           endIcon={<SearchIcon />}

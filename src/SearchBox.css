@@ -13,3 +13,8 @@ form {
 h2 {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
+@media (max-width: 568px) {
+  .btn {
+    margin-left: 10px;
+  }
+}
