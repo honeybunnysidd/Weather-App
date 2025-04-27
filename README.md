@@ -18,4 +18,4 @@
 
 ## Link :
 
-url :
+url : https://weather-app-sidd.vercel.app/
